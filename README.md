@@ -1,1 +1,1 @@
-# Mi-aplicaci-n-construida-con-lenguajes-de-programaci-n-Backend
+Producto integrador. Mi aplicación construida con lenguajes de programación Backend
